@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antony193
-- 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ... python
+- 👀 I’m a Back end software engineer
+- 🌱 I’m currently working on java,postgres,idiempiere
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kinyuantony@gmail.com
 
